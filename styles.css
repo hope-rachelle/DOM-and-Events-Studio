@@ -1,6 +1,10 @@
+#rocket {
+    top: 0px;
+    left: 0px;
+}
 #shuttleBackground {
     background-color: green;
     display: inline-block;
-    height: 80%;
+    height: 70%;
     width: 40%;
 }
